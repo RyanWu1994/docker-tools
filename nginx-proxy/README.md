@@ -22,7 +22,7 @@ services:
 
 ## ServiceNameProxy.conf
 
-**docker-compose.yml 每新增一組port，需要新增一組*.conf檔**
+**docker-compose.yml 每新增一組port，需要新增一組.conf檔**
 ```conf
 server {
     listen       80; # 進入點 port number
